@@ -16,3 +16,8 @@ Este comando criará os seguintes arquivos no diretório raiz do seu projeto:
 - `autoload_classmap.php`
 - `autoload_static.php`
 
+#### Install PHP unit 
+
+```bash
+composer require --dev phpunit/phpunit ^10
+```
